@@ -1,0 +1,151 @@
+[
+    {
+      "imgUrl": "./assets/products/ranawara-01-removebg-preview.png",
+      "name": "FADNA Ranawara Tea",
+      "price": 480,
+      "description": "Totally natural Caffeine Free Ranawara Herbal Tea offers many medicinal benefits :<br> <br><ul><li>According to Ayurvedaya it helps in controlling sugar disorders.<br></li></ul><ul><li>It is also effective in relieving urinary problems and stomach cleaning.<br></li></ul><ul><li>Promotes clear complexion and restoration of the skin to its natural glow.</li></ul> ",
+      "id": 1
+    },
+    {
+      "imgUrl": "./assets/products/samahan.png",
+      "name": "Link Samahan",
+      "price": 1500,
+      "description": "The 100% authentic herbal formulation which is clinically proven.<br> <br><ul><li>Safe and effective preparation for relief of cold and catarrh related symptoms<br></li></ul><ul><li>Extensive clinical trials have confirmed that regular use helps to prevent 15<br> common symptoms related to upper respiratory complications.<br></li></ul><ul><li>It has continued to dominate the market over 22 years, as the first-choice of<br> Over-The-Counter preparations for instant cold remedy.</li></ul>",
+      "id": 2
+    },
+    {
+      "imgUrl": "./assets/products/sudantha.png",
+      "name": "Link Sudantha",
+      "price": 150,
+      "description": "Good oral hygiene is cardinal good health.<br> <br><ul><li>Link Sudantha toothpaste has been formulated, encompassing the effectiveness<br> of nine specific, time tested herbal ingredients, using the most modern,<br> development and manufacturing capabilities.</li></ul><ul><li>Specific combination of these plant extracts acts synergistically to specifically<br> inhibit the harmful bacteria in the mouth, inhibit plaque formation and reduce<br> gingival inflammations thereby prevent gum disease, prevent caries and stops<br> bad breath. <br></li></ul><ul><li>Effectiveness of Sudantha has been already endorsed by millions of Sri Lankans<br> as well as by scientific clinical studies.</li></ul>",
+      "id": 3
+    },
+    {
+      "imgUrl": "./assets/products/siddhalepa.png",
+      "name": "Siddhalepa Ayurveda Balm",
+      "price": 450,
+      "description": "Relief from colds, flu, headaches, toothache & common aches & pain.<br> <br><ul><li>4 items per package</li></ul><ul><li>Net weight of 25g each</li></ul>",
+      "id": 4
+    },
+    {
+      "imgUrl": "./assets/products/supirivicky-toothpaste.png",
+      "name": "Supirivicky Toothpaste",
+      "price": 200,
+      "description": "Keep Gums healthy & strong.<br> <br><ul><li>Prevent cavities.</li></ul><ul><li>Fights plaque & whitens teeth.<br></li></ul></ul><ul><li>4 items per package with a net weight of 75g each.</li></ul>",
+      "id": 5
+    },
+    {
+      "imgUrl": "./assets/products/sumudu.png",
+      "name": "Sumudu Toothpaste",
+      "price": 2790,
+      "description": "Controls infections of the mouth.<br> <br><ul><li>Prevents bleeding & strengthens gums.</li></ul><ul><li>4 items per package with a net weight of 75g each.</li></ul>",
+      "id": 6
+    },
+    {
+      "imgUrl": "./assets/products/kekulu.png",
+      "name": "Kekulu Ayurveda Baby Soap",
+      "price": 170,
+      "description": "Mild Ayurvedic herbal soap helps to keep your baby's skin healthy & soft.<br> <br><ul><li>4 items per package.</li></ul><ul><li>Net weight of 75g each.</li></ul>",
+      "id": 7
+    },
+    {
+      "imgUrl": "./assets/products/visaka.png",
+      "name": "Visaka Ayurveda Soap",
+      "price": 50,
+      "description": "Smoothes the skin & hair.<br> <br><ul><li>Controls dandruff, hair loss & hair damage.</li></ul><ul><li>4 items per package.<br></li></ul><ul><li>Net weight of 75g each.</li></ul>",
+      "id": 8
+    },
+    {
+      "imgUrl": "./assets/products/ayurvedic-head.png",
+      "name": "Ayur Head Massage Oil",
+      "price": 3280,
+      "description": "Stimulates hair groth & protect scalp.<br> <br><ul><li>Controls dandruff, hair loss & hair damage.</li></ul><ul><li> Makes hair healthy, Improves brightness of hair & minimises graying.<br></li></ul><ul><li>1 item of 350 ml per package.</li></ul>",
+      "id": 9
+    },
+    {
+      "imgUrl": "./assets/products/ayurvedic-body.webp",
+      "name": "Ayur Body Massage Oil",
+      "price": 2280,
+      "description": "Provides relief from paralysis & high blood pressure.<br> <br><ul><li>High refreshing, relaxing & purifying.</li></ul><ul><li>1 item of 350 ml per package.</li></ul>",
+      "id": 10
+    },
+    {
+      "imgUrl": "./assets/products/ayurvedic-elixir.png",
+      "name": "Ayur Elixirs - Rejuvenation",
+      "price": 3280,
+      "description": "The Elixir (part of the oldest traditions of Ayurveda remedies) based on Ayurvedic plant<br> extracts are matured in Teak vats for 45 days for effective purity & goodness. <br> <br><ul><li>Elixir is used to balance three doshas.</li></ul><ul><li>Void of any synthetic ingredients or presevative</li></ul>",
+      "id": 11
+    },
+    {
+      "imgUrl": "./assets/products/ayurslim.webp",
+      "name": "Ayur Slim Herbal Tea",
+      "price": 200,
+      "description": "The tea helps shed unwanted pounds by controlling excessive appetites, normalizing<br> metabolism & aiding natural process of cleansing.  <br> <br><ul><li>Aralu performs the laxative function, Bulu which is high in fiber improves<br> metabolism & Nelli which is very high in Vitami.</li></ul>",
+      "id": 12
+    },
+    {
+      "imgUrl": "./assets/products/lakpeyawa.png",
+      "name": "Lakpeyawa Herbal Tea 06 pack",
+      "price": 350,
+      "description": "Cures influenza, fever, cough, headaches & body pains.<br><br><ul><li>Purifies the blood & relieves constipation.</li></ul><ul><li>2 items per package.</li></ul>",
+      "id": 13
+    },
+    {
+      "imgUrl": "./assets/products/gotukola-tea.png",
+      "name": "Link Gotukola Tea",
+      "price": 680,
+      "description": "Maintenance of health is one of the cardinal principles of ancient<br> Ayurvedic systems of health care. Gotukola, which is one of the<br> most popular herbs used in Asian households is renowned for<br> its culinary flavor and beneficial effects on health.<br><br><ul><li>Link Natural Gotukola Tea is manufactured from naturally<br> grown Gotukola herbs, in a hygienic environmentally friendly<br> production facility</li></ul><ul><li> using modern state of the art process technologies, to <br>preserve the medicinal<br> properties and <br>the unique flavor of Gotukola.</li></ul>",
+      "id": 14
+    },
+    {
+      "imgUrl": "./assets/products/swastha.png",
+      "name": "Link Natural Swastha Thriphala",
+      "price": 1100,
+      "description": "Thriphala is a bed rock of Ayurveda therapeutics with many postulated<br> benefits. Thriphala, the formulation of three dried fruits of Aralu (Terminalia<br> chebula Retz.), Bulu (Terminalia bellirica (Gaertn) Roxb.) and Nelli (Phyllanthus<br> emblica Linn.) has been used for thousands of years to promote health,<br> and longevity.<br><br><ul><li>Link Natural Gotukola Tea is manufactured from naturally grown<br> Gotukola herbs, in a hygienic environmentally friendly production<br> facility</li></ul><ul><li> using modern state of the art process technologies, to preserve<br> the medicinal<br> properties and the unique flavor of Gotukola.</li></ul>",
+      "id": 15
+    },
+    {
+      "imgUrl": "./assets/products/musclegard.png",
+      "name": "Link Musclegard",
+      "price": 1250,
+      "description": "Formula of the Link Musclegard was developed after detailed scrutiny of<br> the Ayurvedic literature and consultations with Ayurvedic practitioners<br> refer to recipes used for the muscle and joint ailments. <br><br><ul><li>Link Musclegard is produced in the form of a cream made from a<br> total extraction of 25 main plant species and formulated together<br> with an excipient</li></ul><ul><li>It is a topical application to combat inflammatory conditions,<br> painful swellings of skin, limbs, muscles and joints.</li></ul>",
+      "id": 16
+    },
+    {
+      "imgUrl": "./assets/products/link-five.png",
+      "name": "Link Five Herbs Tea",
+      "price": 450,
+      "description": "To enable human body to combat stress and maintain a calm composure<br> during daily routines, several herbal teas or tisanes are available.<br><br><ul><li>Combining the therapeutic requirements with palatability, the <br>specialist indigenous physicians of Link Natural designed the<br> ‘tea’ now called ‘Five Herbs’.<br></li></ul><ul><li>It comprises of the five herbs which individually and synergistically<br> in combination act to give the desired counter to daily stress.<br></li></ul><ul><li>Serves as a pleasant hot beverage that calms the mind, body<br> and nervous system.</li></ul>",
+      "id": 17
+    },
+    {
+      "imgUrl": "./assets/products/link-hair.png",
+      "name": "Hair Care Cool",
+      "price": 520,
+      "description": "Refreshing Scented Ayurveda Hair Oil - 150ml",
+      "id": 18
+    },
+    {
+      "imgUrl": "./assets/products/paspanguwa.png",
+      "name": "Link Natural Enriched Paspanguwa",
+      "price": 100,
+      "description": "Link Natural Enriched Paspanguwa is developed <br> based on research carried out on ancient Ayurvedic <br>formulations used to combat cold and related symptoms.<br><br><ul><li>The traditional popular formula, consisting of five<br> plants are boiled in water to produce decoction,<br> which is called ‘Peyawa’. </li></ul><ul><li>Many preparations of Paspanguwa containing these<br> plants, are readily available in the market.<br></li></ul><ul><li>In the formulation of Link Enriched Paspanguwa, three<br> other plants renowned for its medicinal activities have<br> been added to strengthen its efficacy.<br></li></ul><ul><li>This new formulation provides synergistic and quick<br> action for the same symptoms and ailments.</li></ul>",
+      "id": 19
+    },
+    {
+      "imgUrl": "./assets/products/butter.png",
+      "name": "Nature's Secrets Body Butter<br> Avocado and Sesame Oil (200ml)",
+      "price": 1800,
+      "description": "Avocado is a powerful natural skin healing moisturizer containing<br> essential vitamins, anti-oxidants and anti-ageing properties.<br><br><ul><li>Combined with deep penetrating Sesame Oil, a natural skin<br> cell regeneration enhancer.<br></li></ul><ul><li>This mineral oil free, Avocado based body butter nourishes <br>the skin and enhances blood circulation., keeping your <br>skin velvet soft and youthful.</li></ul>",
+      "id": 20
+    },
+    {
+      "imgUrl": "./assets/products/herbal.png",
+      "name": "Nature's Secrets Herbal Heritage <br>Cinnamon Hand Cream (50ml)",
+      "price": 1900,
+      "description": "A unique natural blend of the finest aromatic Cinnamon Bark Oil from <br>Ceylon.<br><br><ul><li>Nourishing Organic Virgin Coconut Oil from the tropics, fresh<br> Aloe Vera, and hydrating Olive Oil in this creamy, mineral <br> oil-free formula effectively provides relief from dry skin.<br></li></ul><ul><li>The rich texture leaves hands refreshingly soft, smooth and<br> intensely moisturised.<br></li></ul><ul><li>The natural, distinctive aroma of Ceylon Cinnamon helps calm<br> and soothe your senses.</li></ul>",
+      "id": 21
+    }
+
+
+  ]

@@ -1,0 +1,28 @@
+<mat-card class="atc-container" style="background-color: transparent; box-shadow: none;">
+    <mat-card-content>
+        <mat-form-field class="atc-quantity" style="left: 21%;">
+          <mat-label style="color: black; font-family: 'Philosopher', sans-serif;">Quantity</mat-label>
+          <mat-select name="quantity" [(value)]="quantity" panelClass="custom-mat-select">
+            <mat-option *ngFor="let quantity of availableQuantities" [value]="quantity" style="background-color: rgb(116, 176, 60);">
+              {{quantity}}
+            </mat-option>
+          </mat-select>
+          
+        </mat-form-field>
+        <span class="atc-spacer"></span>
+        <button mat-raised-button color="primary" (click)="addItemToCart()" 
+        *ngIf="!(isItemAlreadyInCart|async)" style="left: 30%; background-color: rgb(66, 94, 32);">
+         <mat-icon>
+            add_shopping_cart
+         </mat-icon>
+         <span class="addcart-btn-text" style="font-family: 'Philosopher', sans-serif;">Add to Cart</span>
+        </button>
+        <button mat-raised-button color="primary" class="btn-md" [routerLink]="['../cart']"
+        *ngIf="isItemAlreadyInCart|async" style="left: 30%; background-color: rgb(66, 94, 32);">
+         <mat-icon>
+            shopping_cart
+         </mat-icon>
+         <span class="viewcart-btn-text" style="font-family: 'Philosopher', sans-serif;">View in Cart</span>
+        </button>
+    </mat-card-content>
+</mat-card>

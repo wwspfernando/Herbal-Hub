@@ -1,0 +1,34 @@
+.product-listing-image{
+    height: 5em;
+    width: 3.5em;
+    padding: 20px;
+    margin: 2px;
+    border-radius: 27px;
+}
+
+.mat-dialog-title{
+    padding: 0px;
+    text-align: center;
+    margin: 0px;
+    font-family: 'Philosopher', sans-serif;
+}
+
+.pm-dialog-row{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.shopping-btn{
+    background-color: rgb(66, 94, 32);
+    font-family: 'Philosopher', sans-serif;
+}
+.gotocart-btn{
+    color: white;
+    background-color: rgb(80, 83, 78);
+    font-family: 'Philosopher', sans-serif;
+}
+
+.mat-caption{
+    font-family: 'Philosopher', sans-serif;
+}

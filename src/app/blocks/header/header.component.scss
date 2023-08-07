@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@600&display=swap');
+
+.example-toolbar{
+    background-color: rgb(66, 94, 32);
+    font-family: 'Cormorant SC', serif;
+    font-size: 25px;
+    
+}
+
+a{
+    margin: 2px;
+}
+
+.active-link {
+    background-color: rgb(97, 138, 47);
+}
+
+.logo{
+
+    background-image: url('../../../assets/herbal-logo.png');
+    height: 220px;
+    width: 220px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-right: 0.2em;
+    margin: 0px;
+    padding: 0px;
+    transform: translate(0%,12.5%);
+}
+
+.header-spacer{
+    flex: 1 1 auto;
+}
+
+.mat-icon{
+    vertical-align: middle;
+    margin: 0 5px;
+
+}
+
+.logout-button{
+    background-color: rgb(61, 166, 156);
+}
+

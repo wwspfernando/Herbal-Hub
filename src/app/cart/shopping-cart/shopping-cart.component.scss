@@ -1,0 +1,98 @@
+body{
+  background-color: rgb(116, 176, 60);
+}
+table {
+    width: 100%;
+    box-shadow: none;
+  }
+  
+  .empty-cart {
+    background-image: url('../../../assets/ayurwedatwo.jpeg');
+    background-size: cover;
+    text-align: center;
+    padding: 100px;
+    border-radius: 0%;
+    height: 80%;
+    width: 86.1%;
+  }
+  
+  $iconWidth: 50px;
+  
+  .mat-icon {
+    font-size: 30px;
+    height: $iconWidth;
+    width: $iconWidth;
+    line-height: $iconWidth;
+  }
+  
+  .mat-raised-button {
+    font-size: 20px;
+    background-color: rgb(66, 94, 32);
+  }
+  
+  .sc-image {
+    height: $iconWidth;
+    width: $iconWidth;
+  }
+  
+  .sc-container {
+    display: flex;
+  
+    flex-direction: row;
+    align-content: space-around;
+    margin: 5px;
+  
+    width: 98%;
+  }
+  
+  .sc-items {
+    flex: 0 1 auto;
+    width: 80%;
+    margin: 0.3em;
+  }
+  .cart-header {
+    margin: 0em;
+  }
+  .sc-summary {
+    flex: 0 1 auto;
+    width: 25%;
+    margin: 0.3em;
+  }
+
+  .mat-table th {
+    color: white;
+    font-family: 'Philosopher', sans-serif;
+    font-weight: bolder;
+  }
+  .mat-option {
+    color: white;
+    font-family: 'Philosopher', sans-serif;
+  }
+  .mat-select-value-text {
+    color: white;
+    font-family: 'Philosopher', sans-serif;
+  }
+  ::ng-deep .custom-mat-select .mat-select-arrow {
+    color: white; /* Change the select arrow color to white */
+  }
+  ::ng-deep .custom-mat-select .mat-select-value-text{
+    color: white; /* Change the text color to white */
+    font-family: 'Philosopher', sans-serif;
+  }
+  
+  
+  @media(max-width:800px) {
+    .sc-container {
+      justify-content: flex-start;
+      flex-direction: column;
+    }
+  
+    .sc-items {
+      width: 90%;
+    }
+  
+    .sc-summary {
+      width: 90%;
+    }
+  }
+  

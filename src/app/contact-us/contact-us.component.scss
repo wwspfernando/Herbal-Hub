@@ -1,0 +1,100 @@
+.contact-us-container {
+    max-width: 100%;
+    background-color: rgb(116, 176, 60);
+    font-family: 'Figtree', sans-serif;
+    height: 100%;
+    padding: 30px;
+    color: #ffffff;
+    font-family: 'Philosopher', sans-serif;
+  }
+  
+  .contact-us-container iframe {
+    width: 100%;
+    height: 450px;
+    border: none;
+    border-radius: 10px;
+  }
+  
+  .contact-title {
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 35px;
+    margin-bottom: 20px;
+  }
+
+  .started-title {
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 35px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 18px;
+    padding-right: 20%;
+    border-radius: 10px;
+  
+    input,
+    textarea {
+      background-color: #f5f5f5;
+      border-radius: 10px;
+      border: none;
+      padding: 10px;
+      color: #333333;
+      width: 100%;
+      font-family: 'Philosopher', sans-serif;
+    }
+  
+    button {
+      background-color: rgb(66, 94, 32);
+      border: none;
+      border-radius: 10px;
+      color: #ffffff;
+      padding: 10px 20px;
+      font-size: 16px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+      font-family: 'Philosopher', sans-serif;
+  
+      &:hover {
+        background-color: rgb(89, 126, 44);
+      }
+    }
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  
+    li {
+      margin-left: 42px;
+      display: flex;
+      align-items: center;
+      gap: 15px;
+      margin-bottom: 32.5px;
+      font-size: 18px;
+  
+      i {
+        font-size: 24px;
+        background-color: rgb(66, 94, 32);
+      }
+  
+      a {
+        color: rgb(49, 70, 24);
+        text-decoration: none;
+  
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+  .contact-table {
+    transform: translate(0%,-8%);
+  }

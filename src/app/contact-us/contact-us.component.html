@@ -1,0 +1,59 @@
+<div class="contact-us-container">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.869699358658!2d79.85452341744384!3d6.906180899999993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae25968eb0617f7%3A0xec5a024ac93c7d7d!2sExserendib%20Ayurveda%20Cure%26Therapy!5e0!3m2!1sen!2slk!4v1690708302472!5m2!1sen!2slk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<table class="contact-table">
+  <tr>
+    <td>
+      <h3 class="contact-title mb-4">Contact Us</h3>
+      <form (submit)="submitForm()" class="d-flex flex-column gap-15">
+        <div>
+          <input type="text" class="form-control" placeholder="Name" name="name" [(ngModel)]="formData.name" required />
+        </div>
+        <div>
+          <input type="email" class="form-control" placeholder="Email" name="email" [(ngModel)]="formData.email" required />
+        </div>
+        <div>
+          <input type="tel" class="form-control" placeholder="Mobile Number" name="mobile" [(ngModel)]="formData.mobile" required />
+        </div>
+        <div>
+          <textarea class="w-100 form-control" placeholder="Comment" name="comment" [(ngModel)]="formData.comment" required></textarea>
+        </div>
+        <div>
+          <button type="submit" class="button border-0">Submit</button>
+        </div>
+      </form>
+    </td>
+    <td style="padding-left: 100px; padding-top: 95px;">
+      <h3 class="started-title mb-4">Get In Touch With Us</h3>
+  <div>
+    <ul class="ps-0">
+      <li class="mb-3 d-flex gap-15 align-items-center">
+        <mat-icon matSuffix class="email-icon">store</mat-icon>
+        <address class="mb-0">
+          Herbal-Hub,
+          No. 2259 Freedom, Colombo, 11111
+          Sri Lanka.
+        </address>
+      </li>
+      <li class="mb-3 d-flex gap-15 align-items-center">
+        <mat-icon matSuffix class="phone-icon">phone</mat-icon>
+        <a href="tel:+91 323232323">+91 323232323</a>
+      </li>
+      <li class="mb-3 d-flex gap-15 align-items-center">
+        <mat-icon matSuffix class="email-icon">email</mat-icon>
+        <a href="mailto:mdsamarasinghe53@gmail.com">herbalhub.enquiries@gmail.com</a>
+      </li>
+      <li class="mb-3 d-flex gap-15 align-items-center">
+        <mat-icon matSuffix class="email-icon">info</mat-icon>
+        <p class="mb-0">Monday - Friday 10 AM - 8 PM</p>
+      </li>
+    </ul>
+  </div>
+    </td>
+  </tr>
+</table>
+
+
+  
+</div>
+
+

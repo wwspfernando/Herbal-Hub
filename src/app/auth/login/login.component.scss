@@ -1,0 +1,47 @@
+.login-body{
+    background-size: cover;
+}
+
+.login-card{
+    width: 400px;
+    height: 250px;
+    background-color: rgb(97, 138, 47);
+    border-radius: 15px;
+    margin-left: 910px;
+    top: 170px;
+    opacity: 95%;
+}
+
+.login-card-title{
+    padding-left: 148px;
+    padding-bottom: 10px;
+    font-family: 'Philosopher', sans-serif;
+    color: black;
+}
+
+.login-button{
+    background-color: rgb(66, 94, 32);
+    font-family: 'Philosopher', sans-serif;
+}
+.login-register-link{
+    margin-left: 15px;
+    font-family: 'Philosopher', sans-serif;
+    color: black;
+}
+.link{
+    color: rgb(66, 94, 32);
+}
+
+.email-icon{
+    transform: scale(0.7);
+}
+
+.full-width{
+    width: 100%;
+    font-family: 'Philosopher', sans-serif;
+}
+
+::ng-deep .mat-form-field-label {
+    color: black !important;
+  }
+  
